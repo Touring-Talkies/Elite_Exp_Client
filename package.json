@@ -11,7 +11,12 @@
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
+    "macaddress": "^0.5.2",
     "morgan": "~1.9.1",
-    "mplayer": "^2.1.0"
+    "mplayer": "^2.1.0",
+    "node-macaddress": "^0.2.4",
+    "python-shell": "^3.0.1",
+    "request": "^2.88.2",
+    "vlc-simple-player": "^0.5.0"
   }
 }
